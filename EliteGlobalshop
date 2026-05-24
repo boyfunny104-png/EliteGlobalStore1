@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EliteGlobalStore1</title>
+    <style>
+        body { background-color: #121212; color: white; font-family: Arial, sans-serif; text-align: center; padding: 40px 20px; }
+        .container { max-width: 600px; margin: auto; background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); }
+        h1 { color: #ff4757; }
+        .btn { background-color: #ff4757; color: white; padding: 12px 25px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; text-decoration: none; display: inline-block; margin-top: 20px; font-weight: bold; }
+        .btn:hover { background-color: #e84118; }
+        ul { text-align: left; display: inline-block; line-height: 1.8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>EliteGlobalStore1 🚀</h1>
+        <p>Unlock the true potential of your mobile gaming experience! We provide high-quality configuration files, graphics optimization tools, and FPS boosters for all trending mobile games.</p>
+        <hr style="border: 1px solid #333; margin: 20px 0;">
+        <ul>
+            <li>📱 <strong>Supported:</strong> PUBG, Free Fire, COD & more.</li>
+            <li>⚡ <strong>Safe & Fast:</strong> Direct downloads with zero lag.</li>
+            <li>🛠️ <strong>Easy Setup:</strong> Step-by-step guides included.</li>
+        </ul>
+        <br>
+        <a href="https://wa.me/923010491077" class="btn">Contact to Get Files</a>
+    </div>
+</body>
+</html>
